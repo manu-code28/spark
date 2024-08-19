@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(51, 105, 115);
+    text-align: center;
+}
+
+h1{
+    color:aliceblue;
+    font-family: "Quicksand", sans-serif;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+p{
+    color: aliceblue; 
+    font-family: "Quicksand", sans-serif;
+}
+
+a{
+    color: black;
+}
+
+#footer{
+    font-family: "Dancing Script", cursive;
+    background-color: rgb(226, 223, 175);
+    position:inherit;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
